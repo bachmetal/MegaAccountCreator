@@ -1,3 +1,5 @@
+Mega batch account creator
+
 It is an educational project and any misuse of this program is solely on the user.
 I am not responsible for any damage caused by the program.
 
